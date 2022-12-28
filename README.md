@@ -1,4 +1,4 @@
-# Noel 3.1
+# Pixel art
 
 <div>
     <a href="https://codepen.io/truongvy-06/pen/WNKrdaZ" target="blank"><img align="center" src="https://img.shields.io/badge/DEMO-006fff?style=for-the-badge&logo=codepen&logoColor=white" alt="DEMO"/></a>
